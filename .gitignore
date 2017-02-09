@@ -1,1 +1,14 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+*~
+*.project
+.project
+*.aj
+.DS_Store
+log.roo
+.classpath
+.settings
+target/*
+.externalToolBuilders/*
+.idea
 /target/
+logger.log
